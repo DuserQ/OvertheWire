@@ -34,7 +34,7 @@ DESCRIPTION
        If a command is specified, it will be executed on the remote host instead of a login shell.  A complete command line may be specified as command, or it may have additional arguments.  If supplied, the arguments  will  be  ap‐
        pended to the command, separated by spaces, before it is sent to the server to be executed.
 ```
-
+**note: this is not necessary step if you know how it works, its just the explanetion of this tool and how it works**
 
 
 
