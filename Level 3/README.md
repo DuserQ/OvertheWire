@@ -6,5 +6,9 @@ inhere
 
 ```bash
 $ cd inhere
-~/inhere$ ls
+/inhere$ ls
+```
+```bash
+/inhere$ ls -a
+.  ..  ...Hiding-From-You
 ```
