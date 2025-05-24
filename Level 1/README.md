@@ -10,6 +10,7 @@ use the password found in level 0 to login.
 $ ls
 -
 ```
+
 ```bash
 $ cat < -
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
