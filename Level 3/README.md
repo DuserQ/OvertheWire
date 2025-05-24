@@ -12,3 +12,7 @@ $ cd inhere
 /inhere$ ls -a
 .  ..  ...Hiding-From-You
 ```
+```bash
+inhere$ cat ...Hiding-From-You 
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+```
