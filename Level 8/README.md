@@ -2011,7 +2011,7 @@ ZoQXvA7JpWaVsWZp2KdXwVEP7OFjPCbG
 ZoQXvA7JpWaVsWZp2KdXwVEP7OFjPCbG
 ZoQXvA7JpWaVsWZp2KdXwVEP7OFjPCbG
 ```
-and filter the unique one via the command uniq
+and filter the unique one via the command `uniq`
 ```bash
 bandit8@bandit:~$ sort data.txt | uniq -u
 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
